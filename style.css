@@ -1,0 +1,108 @@
+body{
+    font-family: calibri;
+}
+#main{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    /* background-color: whitesmoke; */
+    background-image: url(img/9782010.jpg);
+    background-size: cover;
+}
+#left{
+   
+    width: 60%;
+    height: 100%;
+    position: absolute;
+    /* background-image: url(img/9782010.jpg); */
+    background-color: rgba(2, 34, 69, 0.6);
+    background-size: cover;
+}
+/* #overlay{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(2, 34, 69, 0.6);
+    background-size: cover;
+} */
+#right{
+    width: 39.7%;
+    height: 99.2%;
+    position: absolute;
+    background-color: rgba(245, 245, 245, 0.6);
+    /* background-color: whitesmoke; */
+    background-size: cover;
+    margin-left: 60%;
+    border: dashed;
+   
+}
+.bog{
+    padding: 2px;
+    width: 10%;
+    border-radius: 5px;
+    border: 0 solid;
+    box-shadow: 1px 3px 3px #022245;
+}
+.boge{
+    padding: 2px;
+    width: 11.5%;
+    border-radius: 5px;
+    border: 0 solid;
+    box-shadow: 1px 3px 3px #022245;
+}
+.label{
+    font-size: 20px;
+}
+.bogs{
+    padding: 2px;
+    width: 12%;
+    border-radius: 5px;
+    border: 0 solid;
+    box-shadow: 1px 3px 3px #022245;
+    
+}
+
+.iniforml{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.iniformR{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.a1{
+    margin-left: 5%;
+
+}
+.in1{
+    padding: 4px;
+    width: 50%;
+   border-radius: 5px;
+   border: 0, solid;
+   box-shadow: 2px 3px 3px #022245;
+   
+}
+.bod{
+    width: 80px;
+   
+}
+.logo{
+    height: 25%;
+    margin-top: 3%;
+    margin-left: 30%;
+    width: 50%;
+}
+.eresult{
+    margin-left: 40%;
+    color: #022245;
+    font-size: 30px;
+}
+.ryt{
+    padding: 5px;
+    width: 60%;
+    border: 0 solid;
+    border-radius: 5px;
+    box-shadow: 2px 3px 3px #022245;
+}
